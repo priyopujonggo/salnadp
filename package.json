@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "Scene exported with Spline",
   "scripts": {
-    "start": "serve"
+    "start": "serve",
+    "build": "start"
   },
   "devDependencies": {
     "serve": "^13.0.2"
